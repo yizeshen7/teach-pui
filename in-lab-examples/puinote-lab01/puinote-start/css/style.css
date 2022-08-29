@@ -1,0 +1,31 @@
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #939393;
+
+  background-color: #191919;
+}
+
+.notecard {
+  width: 450px;
+  height: 150px;
+  border-radius: 8px;
+  background-color: green;
+  margin: 150px auto 0px auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.note-title {
+  color: #dddddd;
+  font-size: 18px;
+  font-weight: 500;
+}
+i
+.notecard-thumbnail {
+  width: 70px;
+  height: 70px;
+
+  /* Add some rounded corners to the image. */
+  border-radius: 5px;
+}
